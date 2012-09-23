@@ -1,5 +1,6 @@
-A github:pages blog using jekyll
+github:pages blog for Christopher Poole
 ================================
 
-Getting a jekyll based github:pages blog up and running was more effort than I expected (not a 5 minute job). This repo contains everything you need to get started, including forks of the default github:pages themes as submodules.
+If you want to use this template, have a look at https://github.com/christopherpoole/ghpblog first.
 
+Everything in \_posts is Copyright Christopher Poole 2012.
