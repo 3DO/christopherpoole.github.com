@@ -7,7 +7,7 @@ copyright: Copyright Christopher Poole 2012
 
 pygments: true
 permalink: '/:title'
-markdown: rdiscount
+markdown: kramdown 
 
 exclude: [README.md]
 
