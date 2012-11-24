@@ -4,11 +4,13 @@ title: Christopher Poole.
 ---
 
 {% for post in site.posts %}
-    {% if post.file %}
-        <img src="/static/pdf32.png" align="right">
+    {% if post.noindex == True %}
+        {% if post.file %}
+            <img src="/static/pdf32.png" align="right">
+        {% endif %}
+        <a href="{{ post.url }}">{{ post.title }}</a></br>
+        <span class="index_date"> {{ post.date | date_to_long_string }}</span>
+        <hr/>
     {% endif %}
-    <a href="{{ post.url }}">{{ post.title }}</a></br>
-    <span class="index_date"> {{ post.date | date_to_long_string }}</span>
-    <hr/>
 {% endfor %}
 
