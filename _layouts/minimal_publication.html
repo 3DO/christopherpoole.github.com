@@ -2,7 +2,9 @@
 
 <section>
     <h2>{{ page.title }}</h2>
-    <img src="/static/pdf.png" align="right">
+    <a href="/static/pdfs/{{ page.file }}">
+        <img src="/static/pdf.png" align="right">
+    </a>
     {{ page.journal }}</br></br>
     {% if page.authors %}
     Authors: {{ page.authors }}</br>
