@@ -17,7 +17,7 @@ The technique was benchmarked for geometry load time, simulation run time and me
 ![](/static/images/pelvis_tet.png)
 
 ### Downloads
-- The software described in the manuscript is available from the CADMesh project page [here](cadmesh).
+- The software described in the manuscript is available from the CADMesh project page [here](http://code.google.com/p/cadmesh/).
 
 ### Citation
 

@@ -15,7 +15,7 @@ Robustness of the interface was tested using a set of CAD models of various comp
 ![](/static/images/geant4_leaf.png)
 
 ### Downloads
-- The software described in the manuscript is available from the CADMesh project page [here](cadmesh).
+- The software described in the manuscript is available from the CADMesh project page [here](http://code.google.com/p/cadmesh/).
 
 ### Citation
 
