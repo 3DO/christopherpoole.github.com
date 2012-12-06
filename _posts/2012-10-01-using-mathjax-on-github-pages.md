@@ -1,6 +1,7 @@
 ---
 layout: minimal_post
 title: Using MathJax on Github:Pages
+comments: True
 ---
 
 [MathJax](http://www.mathjax.org) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages.

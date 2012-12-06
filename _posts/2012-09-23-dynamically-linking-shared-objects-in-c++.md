@@ -1,6 +1,7 @@
 ---
 layout: minimal_post
 title: Dynamically Linking Shared Objects in C++
+comments: True
 ---
 
 Dynamically linking shared objects (``*.so`` or ``*.dll``) at run time, as opposed to compile time in C is easy with <dlfcn.h>, this has been discussed all over the web by others.

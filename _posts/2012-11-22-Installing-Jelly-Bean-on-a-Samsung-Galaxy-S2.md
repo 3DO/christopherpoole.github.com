@@ -1,6 +1,7 @@
 ---
 layout: minimal_post
 title: Installing Jelly Bean on a Samsung Galaxy S2
+comments: True
 ---
 
 *NO WARRANTY*
