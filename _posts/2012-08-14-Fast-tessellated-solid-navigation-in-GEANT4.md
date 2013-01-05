@@ -4,6 +4,7 @@ title: Fast tessellated solid Navigation in GEANT4
 journal: IEEE Transations on Nuclear Science
 authors: CM Poole, I Cornelius, JV Trapp and CM Langton
 file: Poole et al. - Fast tessellated solid navigation in GEANT4.pdf
+icon: /static/images/pelvis_tet.png
 ---
 
 ### Abstract
