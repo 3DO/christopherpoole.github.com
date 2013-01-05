@@ -4,6 +4,7 @@ title: A CAD Interface for GEANT4
 journal: Australasian Physical and Engineering Sciences in Medicine 
 authors: CM Poole, I Cornelius, JV Trapp and CM Langton
 file: Poole et al. - A CAD interface for GEANT4.pdf
+introduction: Here we describe a technique that allows for CAD models to be directly loaded as geometry without the need for commercial software and intermediate file format conversion.
 ---
 
 ### Abstract

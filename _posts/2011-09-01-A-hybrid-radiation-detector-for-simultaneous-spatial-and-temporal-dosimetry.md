@@ -4,6 +4,8 @@ title: A hybrid radiation detector for simultaneous spatial and temporal dosimet
 journal: Australasian Physical and Engineering Sciences in Medicine 
 authors: CM Poole, JV Trapp, J Kenny, T Kairn, K Williams, M Taylor, R Franich and CM Langton
 file: Poole et al. - A hybrid radiation detector for simultaneous spatial and temporal dosimetry.pdf
+icon: static/images/gel_round.png
+introduction: In this feasibility study an organic plastic scintillator is calibrated against ionisation chamber measurements and then embedded in a polymer gel dosimeter to obtain a quasi-4D experimental measurement of a radiation field.
 ---
 
 ### Abstract
