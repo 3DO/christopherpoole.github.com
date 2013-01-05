@@ -22,8 +22,11 @@ title: Christopher Poole.
         {% if post.icon %}
             <img src="{{ post.icon }}" width="75%">
         {% endif %}
-
-        </br>
+        {% if post.introduction or post.icon %}
+            <p align="right"><a href="{{ post.url }}">Keep reading...</a></p>
+        {% else %}
+            </br></br>
+        {% endif %}
         <hr/>
     {% endif %}
 {% endfor %}
