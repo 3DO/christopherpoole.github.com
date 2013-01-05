@@ -33,7 +33,7 @@ Divide the dough ball into four equal portions like so:
 
 ![](/static/images/bagels/divide.png)
 
-With well floured hands, pinch a hole through each ball using the thumb and forefinger (think A-Okay) and gently work into a ring:
+With well floured hands, pinch a hole through each ball using the thumb and forefinger (think [A-Ok](http://en.wikipedia.org/wiki/A-ok)) and gently work into a ring:
 
 ![](/static/images/bagels/ring.png)
 
@@ -53,5 +53,6 @@ Bake in the oven on the middle shelf at 200 C for 20 minutes or until they look 
 ## Results
 
 This is the finished product, not sure what a good bagel crumb looks like, but this seems just fine to me.
+Bottoms up!
 
 ![](/static/images/bagels/crumb.png)
