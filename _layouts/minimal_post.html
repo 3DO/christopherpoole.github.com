@@ -3,6 +3,9 @@
 <section>
     <h2>{{ page.title }}</h2>
     <h6>{{ page.date | date_to_long_string }}</h6>
+    {% if page.introduction %}
+        <p> {{page.introduction }}
+    {% endif %}
     {{ content }}
 
 {% if page.comments %}
