@@ -1,0 +1,18 @@
+---
+layout: minimal_post
+title: Awards 
+noindex: True 
+---
+<p>
+The following is a list of significant academic awards:
+</p>
+
+{% for post in site.posts %}
+    {% if post.award %}
+    <a href="{{ post.url }}">{{ post.title }}</a></br>
+    <span class="index_date"> {{ post.date | date_to_long_string }}</span>
+    </br></br>
+    <hr/>
+    {% endif %}
+{% endfor %}
+
