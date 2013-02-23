@@ -58,4 +58,4 @@ That should do the trick:
     $>     
 
 On where to go from here, have a look [g4lib](https://github.com/christopherpoole/g4lib), boiler plate for getting going with Python and GEANT4.
-    
+As a final note, make sure `$PYTHONPATH` is in your bash profile somewhere, and make doubly sure it does not include paths to older versions of GEANT4 Python bindings.    
