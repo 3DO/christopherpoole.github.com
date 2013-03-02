@@ -2,6 +2,7 @@
 layout: minimal_post
 title: Using a Moka Pot - what works for me... 
 comments: False 
+published: False
 introduction: I went out to buy a new moka pot a few weeks ago, it seemed as though it would be easy enough to use, put coffee in basket, boil. It turns out that is pretty much all there is to it, although with a little bit if technique.
 ---
 
@@ -11,4 +12,4 @@ Most (all) typical moka pots are comprised of 5 key components; a water reservoi
 
 ![](/static/images/moka_pot/moka_pot.png)
 
-
+More to come...
