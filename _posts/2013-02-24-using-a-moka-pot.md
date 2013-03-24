@@ -33,7 +33,8 @@ The geometry of the pressure plate at the bottom of the collector is such that a
 ![](/static/images/moka_pot/basket_level.png)
 
 By now the water will be boiling.
-Turn off the stove, hold the hot water reservoir with a dry cloth and screw the collector onto it until it makes a tight seal.
+Turn off the stove and place the coffee basket into the reservoir.
+Hold the hot water reservoir with a dry cloth and screw the collector onto it until it makes a tight seal.
 Turn the stove back on (medium heat) and wait for a stead flow of coffee to emerge:
 
 ![](/static/images/moka_pot/steady_flow.png)
