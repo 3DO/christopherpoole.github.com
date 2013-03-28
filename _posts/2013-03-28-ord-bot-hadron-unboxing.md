@@ -54,7 +54,7 @@ All of the stepper motors were individually wrapped in bubble wrap:
 
 ![](/static/images/ordbot/motor.png)
 
-The stepper motor driver board purchase also included a full cable hardness for all motors, 6 end stops and thermistors:
+The stepper motor driver board purchase also included a full cable hardness for all motors, 6 end stops, and thermistors:
 
 ![](/static/images/ordbot/cables.png)
 
