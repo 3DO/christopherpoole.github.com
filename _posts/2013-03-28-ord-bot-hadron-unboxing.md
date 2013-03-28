@@ -31,7 +31,7 @@ Pleasingly the RepRap RAMPS 1.4 and associated parts was contained within its ow
 
 ![](/static/images/ordbot/controller_box.png)
 
-It comes along with a face, thermistors, grub screws and a flat head screw driver:
+It comes along with a fan, thermistors, grub screws and a flat head screw driver:
 
 ![](/static/images/ordbot/controller_parts.png)
 
