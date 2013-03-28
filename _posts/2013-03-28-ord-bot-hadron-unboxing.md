@@ -7,8 +7,8 @@ introduction: At long last I have purchased a 3D printer. After a considerable p
 icon: static/images/ordbot/icon.png
 ---
 
-Automation Technology Inc. offer a mechanical parts only Ord Bot Hadron kit.
-Along with the kit I ordered a RepRap RAMPS 1.4 stepper motor diver board, and a stand along LCD controller.
+[Automation Technology Inc.](http://www.automationtechnologiesinc.com/) offer a [mechanical parts only](http://www.automationtechnologiesinc.com/products-page/3d-printer/3d-printer-mechanical-platform-no-controller) Ord Bot Hadron kit.
+Along with the kit I ordered a [RepRap RAMPS 1.4 stepper motor diver board](http://www.automationtechnologiesinc.com/products-page/3d-printer/ramps-pre-assembled-kit-complete), and a stand along [LCD controller](http://www.automationtechnologiesinc.com/products-page/3d-printer/lcd-control-panel-for-3d-printers-using-ramps-1-4).
 Via FedEx, delivery time was 5 days from Illinois, USA to Brisbane, Australia.
 The order arrived encased in more then enough bubble wrap:
 
