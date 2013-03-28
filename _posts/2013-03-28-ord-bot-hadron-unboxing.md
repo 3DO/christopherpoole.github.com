@@ -22,7 +22,7 @@ At the bottom of the box is everything else, MakerSlide, stepper motors, anodise
 
 ![](/static/images/ordbot/layer3.png)
 
-The anodised parts were indevidually wrapped in either bubble wrap or butchers paper. On the whole they seem to be of high quality, no sharp edges and precisely drilled. The extruder carririge (angled part) is anodised a slightly different blue to the other parts:
+The anodised parts were individually wrapped in either bubble wrap or butchers paper. On the whole they seem to be of high quality, no sharp edges and precisely drilled. The extruder carriage (angled part) is anodised a slightly different blue to the other parts:
 
 ![](/static/images/ordbot/anodised_parts.png)
 
@@ -34,7 +34,7 @@ It comes along with a face, thermistors, grub screws and a flat head screw drive
 
 ![](/static/images/ordbot/controller_parts.png)
 
-The driver board itself is fully assembled sans heatsinks, and already mounted on an Arduino Mega. A micro SD card adapter is also provided:
+The driver board itself is fully assembled sans heat sinks, and already mounted on an Arduino Mega. A micro SD card adapter is also provided:
 
 ![](/static/images/ordbot/controller.png)
 
@@ -58,7 +58,8 @@ The stepper motor driver board purchase also included a full cable hardness for 
 
 ![](/static/images/ordbot/cables.png)
 
-Overall the kit is of high quality an dwell packaged for shipping. I can't wait to build it!
+Finally, there are a lot of hardware and connectors required for assembly, all individually labeled and bagged:
 
 ![](/static/images/ordbot/everything.png)
 
+Overall the kit is of high quality and well packaged for shipping. I can't wait to build it!
