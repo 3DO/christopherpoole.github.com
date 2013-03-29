@@ -4,7 +4,6 @@ title: Ord Bot Hadron (Automation Technology Inc. kit) Unboxing
 comments: True 
 published: True 
 introduction: At long last I have purchased a 3D printer. After a considerable period of indecision, I finally settled on an Ord Bot Hadron kit; all Aluminum construction, no 3D printed parts, it seems ideal for modding. This is what's in the box.
-icon: static/images/ordbot/icon.png
 ---
 
 The [Ord Bot](http://www.buildlog.net/wiki/doku.php?id=ord_bot:the_ord_bot) 3D printer is a rigid all Aluminium designed based around a [MakerSlide](http://makerslide.com/) frame.
