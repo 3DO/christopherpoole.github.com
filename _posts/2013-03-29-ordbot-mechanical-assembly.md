@@ -33,3 +33,4 @@ The carriage sub-assembly floats, and is only held in place by gravity:
 
 ![](/static/images/ordbot_assembly/complete.png)
 
+[Previously](http://christopherpoole.github.com/ord-bot-hadron-unboxing/) I posted on the unboxing of this kit, so far so good.
