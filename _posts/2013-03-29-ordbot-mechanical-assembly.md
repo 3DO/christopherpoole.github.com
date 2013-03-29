@@ -29,7 +29,7 @@ If the long end is too short, you will find that the whole frame is off balance:
 
 ![](/static/images/ordbot_assembly/frame.png)
 
-The carriage sub-assemble floats, and is only held in place by gravity:
+The carriage sub-assembly floats, and is only held in place by gravity:
 
 ![](/static/images/ordbot_assembly/complete.png)
 
