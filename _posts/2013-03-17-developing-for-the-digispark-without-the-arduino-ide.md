@@ -1,6 +1,6 @@
 ---
 layout: minimal_post
-title: Developing for the Digispark without using the Aduino IDE 
+title: Developing for the Digispark without using the Arduino IDE 
 published: True
 comments: True 
 introduction: If you want to compile and upload to your digispark without the Arduino IDE, this is how you do it. 
