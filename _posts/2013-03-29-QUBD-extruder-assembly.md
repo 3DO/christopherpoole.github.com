@@ -7,7 +7,7 @@ introduction: A quick run-down on the assembly of the QU-BD 3D printer dual extr
 ---
 
 The QU-BD [dual extruder](http://store.qu-bd.com/product.php?id_product=19) has its origins as a Kickstarter project, it ships in kit form or pre-assembled.
-What follows are some progress picturs to complement the [video assembly instructions](http://www.qu-bd.com/tutorials/mbe-extruder-assembly-instructions/).
+What follows are some progress pictures to complement the [video assembly instructions](http://www.qu-bd.com/tutorials/mbe-extruder-assembly-instructions/).
 
 Here are all the parts required for a single extruder: 
 ![](/static/images/qubd_extruder/parts.png)
