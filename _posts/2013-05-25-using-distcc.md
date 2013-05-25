@@ -2,9 +2,9 @@
 layout: minimal_post
 title: Using distcc 
 published: true 
+introduction: Distributed compilation is useful for the compilation of very large packages, distcc makes this reasonably straight forwards.
 ---
 
-Distributed compilation is useful for the compilation of very large packages; `distcc` makes this reasonably straight forwards.
 For Debian, on your local machine as well as the build nodes:
 
     sudo apt-get install distcc distcc-pump
