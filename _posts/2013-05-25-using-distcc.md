@@ -14,6 +14,11 @@ On the build nodes:
 
     distccd --daemon --jobs <n procs> --allow <local machine ip>
 
+Indicate to your local machine where to find the build nodes, IP addresses space separated with options comma separated.
+If you are building C++ the `lzo` option is required:
+
+    export DISTCC_HOSTS='<node1 ip>,cpp,lzo <node2 ip>,cpp,lzo'
+
 If you are using CMake for example, you will want to set both `CMAKE_CXX_COMPILER` and `CMAKE_C_COMPILER` to `/user/bin/distcc` before configuring your build.
 Now you are ready for a distributed build:
 
