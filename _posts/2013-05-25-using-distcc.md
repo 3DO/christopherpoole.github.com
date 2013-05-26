@@ -14,7 +14,7 @@ On the build nodes:
 
     distccd --daemon --jobs <n procs> --allow <local machine ip>
 
-If you are using CMake for example, you will want to sent both `CMAKE_CXX_COMPILER` and `CMAKE_C_COMPILER` to `/user/bin/distcc` before configuring your build.
+If you are using CMake for example, you will want to set both `CMAKE_CXX_COMPILER` and `CMAKE_C_COMPILER` to `/user/bin/distcc` before configuring your build.
 Now you are ready for a distributed build:
 
     distcc-pump make -j<n procs across all nodes>
