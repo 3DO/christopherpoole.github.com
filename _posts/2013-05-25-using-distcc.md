@@ -23,6 +23,8 @@ If you are using CMake for example, you will want to set both `CMAKE_CXX_COMPILE
 Now you are ready for a distributed build:
 
     distcc-pump make -j<n procs across all nodes>
+    OR
+    pump make -j<n procs across all nodes>
 
 ## Issues
 It seems the package in the Debian repository is not properly configured, and one may encounter this error or similar:
