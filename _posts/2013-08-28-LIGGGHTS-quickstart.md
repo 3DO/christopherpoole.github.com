@@ -9,13 +9,13 @@ If you want LAMMPS, install LIGGGHTS instead, it is considerably easier.
 However, all of the required information is not in one place, it is scattered in random PDF files.
 
 ## Dependencies
-* [LIGGGHTS](), [LAMMPS]() comes with it
-* [FFTW]()
-* [OpenMPI]()
+* [LIGGGHTS](http://cfdem.dcs-computing.com/?q=OpenSourceDEM), [LAMMPS](http://lammps.sandia.gov/) comes with it
+* [FFTW](http://www.fftw.org/)
+* [OpenMPI](http://www.open-mpi.org/)
 
 ## Installation
 FFTW and OpenMPI are probably in the packaging repository for your system, check there first, otherwise follow the instructions on the project pages.
-Pleasingly the LIGGGHTS code and a mirror of the current version of LAMMPS is maintained on the [CFDEMproject]() github page:
+Pleasingly the LIGGGHTS code and a mirror of the current version of LAMMPS is maintained on the [CFDEMproject](https://github.com/CFDEMproject) github page:
 
     $> git clone https://github.com/CFDEMproject/LIGGGHTS-PUBLIC LIGGGHTS
     $> cd LIGGGHTS/src
