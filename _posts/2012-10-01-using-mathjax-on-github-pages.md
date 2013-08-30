@@ -14,7 +14,7 @@ You can find the MathJax documentation [here](http://www.mathjax.org/resources/d
     <head>
     ...
         <script type="text/javascript"
-                src="https://d3eoax9i5htok0.cloudfront.net/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+                src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
         </script>
     ...
     </head>
