@@ -3,7 +3,7 @@ layout: minimal_post
 title: Setting up Vim with YouCompleteMe 
 published: true 
 comments: true
-introduction: YouCompleteMe is basically better omni-completion for Vim; it finds matches in the current file you editing. It is great for both coding generally, and writing using LaTeX..
+introduction: YouCompleteMe is basically better omni-completion for Vim; it finds matches in the current file you areediting. It is great for both coding generally, and writing using LaTeX..
 ---
 
 For best results, compile Vim from source, with Python enabled:
@@ -63,7 +63,7 @@ In `/etc/apt/apt.conf`:
 
 In `/etc/apt/sources.list` put this line somewhere:
 
-    deb http://ftp.iinet.net.au/debian/debian/ jessie main
+    deb http://<your mirror>/debian/debian/ jessie main
 
 The `apt.conf` file will protect us from installing files from `testing` ordinarily, however in making the `jessie` repository available, we can issue a one-liner to install the required package like this:
 
