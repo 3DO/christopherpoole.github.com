@@ -3,10 +3,10 @@ layout: minimal_post
 title: Setting up Vim with YouCompleteMe 
 published: true 
 comments: true
-introduction: YouCompleteMe is basically better omni-completion for Vim; it finds matches in the current file you areediting. It is great for both coding generally, and writing using LaTeX..
+introduction: YouCompleteMe is basically better omni-completion for Vim; it finds matches in the current file you are editing. It is great for both coding generally, and writing using LaTeX..
 ---
 
-For best results, compile Vim from source, with Python enabled:
+For best results, compile [Vim](http://www.vim.org/download.php) from source, with Python enabled:
 
     hg clone https://vim.googlecode.com/hg/ vim
     cd vim/
